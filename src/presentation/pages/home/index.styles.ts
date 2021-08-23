@@ -5,7 +5,7 @@ export const StyledHome = styled.div`
   width: 1000px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   border: 2px solid white;
   border-radius: 10px;
