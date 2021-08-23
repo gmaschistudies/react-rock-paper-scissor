@@ -147,3 +147,9 @@ code {
 }
 
 /* My CSS override */
+
+html,
+body {
+  background-color: black;
+  color: white;
+}
