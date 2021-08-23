@@ -9,6 +9,11 @@ export const StyledDashboard = styled.div`
   align-items: center;
   padding: 15px;
   box-sizing: border-box;
+
+  h1 {
+    font-size: 26px;
+    font-weight: bold;
+  }
 `;
 
 export const ScoreCardContainer = styled.div`
