@@ -7,7 +7,6 @@ export const StyledHeader = styled.div`
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  background-color: darkblue;
   box-sizing: border-box;
   padding: 15px;
   margin: 5px;

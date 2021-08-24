@@ -12,6 +12,7 @@ export const StyledHome = styled.div`
   box-sizing: border-box;
   padding: 10px;
   margin: auto;
+  background-color: #444;
 `;
 
 export const StyledHomeContainer = styled.div`
