@@ -90,10 +90,3 @@ export const selectLastPlays = (state: RootState) => state.gameScore.lastHand;
 export const { validateScore, restartGame } = gameScoreSlice.actions;
 
 export default gameScoreSlice.reducer;
-
-// incrementPlayerScore: {
-//   reducer(state, action: PayloadAction) {},
-//   prepare() {},
-// },
-
-Math.round(Math.random() * 2);

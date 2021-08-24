@@ -19,9 +19,6 @@ export const StyledHomeContainer = styled.div`
   height: 100vh;
   width: 100%;
   display: flex;
-  /* justify-content: center;
-  align-items: center; */
-  //cannot use this to center because when the item is bigger than the container, the top of the container becomes inacessible, use margin: auto on the item instead
   box-sizing: border-box;
   padding: 0px 20px;
 `;
